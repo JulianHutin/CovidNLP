@@ -1,0 +1,2 @@
+# CovidNLP
+Kaggle competition notebook
