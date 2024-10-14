@@ -1,5 +1,5 @@
 # CovidNLP
-Kaggle competition notebook
+This notebook helped me solve a text classification problem during a Kaggle competition at my school.
 
 ## Context
 This Challenge concerns the problem of text analysis using automatic natural language processing (NLP) and machine learning (ML) techniques. The dataset used here is part of a questionnaire conducted during the first containment in France in 2020 to survey people over 75 years old about their perception of the Coronavirus crisis. To give you an idea of the types of questions asked, the first block of questions concerns the perception of the danger of the Coronavirus. It includes three questions:
